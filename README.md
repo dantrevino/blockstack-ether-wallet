@@ -10,3 +10,5 @@ npm run start
 ```
 
 __Please don't send Ether to this wallet unless you're prepared to use the private key withdraw it manually it yourself.__
+
+https://www.larrysalibra.com/blog/building-ethereum-wallet-on-blockstack/
